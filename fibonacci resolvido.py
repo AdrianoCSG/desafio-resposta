@@ -7,6 +7,7 @@ penultimo = 1
 # não precisa desse if
 # input tava declarado como char e não int
 # não precisa printar o termo no final
+# count deveria ser 3 ao invés de 6
 
 print("{}, {}".format(ultimo, penultimo), end = "")
 
